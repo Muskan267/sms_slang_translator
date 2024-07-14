@@ -57,6 +57,7 @@ ASL=Age, Sex, Location
 THX=Thank You
 TTFN=Ta-Ta For Now!
 TTYL=Talk To You Later
+TC = Take Care 
 U=You
 U2=You Too
 U4E=Yours For Ever
@@ -73,6 +74,7 @@ IFYP – I feel your pain
 LOL – Laughing out loud
 TNTL – Trying not to laugh
 JK – Just kidding
+IDK - I don't Know
 IDC – I don’t care
 ILY – I love you
 IMU – I miss you
